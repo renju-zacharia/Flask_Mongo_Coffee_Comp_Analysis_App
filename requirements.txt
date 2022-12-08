@@ -21,7 +21,7 @@ bokeh==1.0.2
 boto==2.49.0
 Bottleneck==1.2.1
 census==0.8.13
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 citipy==0.0.5
